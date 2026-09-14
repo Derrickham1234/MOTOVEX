@@ -1,0 +1,7 @@
+{
+  "name": "MOTOVEX — Global Vehicle Marketplace",
+  "description": "Institutional global vehicle and heavy equipment marketplace featuring physical telemetry audits, multi-sector catalog, and tier-3 escrow protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
